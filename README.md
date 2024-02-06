@@ -7,4 +7,5 @@
 
 
 
-![image](https://github.com/Ver12/SmartMeterWebApp/assets/84841032/f8944968-f0b6-42ad-b6bc-89cd065fdd05)
+![image](https://github.com/Ver12/SmartMeterWebApp/assets/84841032/ee7164f2-8af7-4a15-b3fc-2886d9fed8ed)
+
